@@ -55,6 +55,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>jenkins-ci-cd</finalName>
+		<finalName>jenkins-ci-cd-devops</finalName>
 	</build>
 </project>
