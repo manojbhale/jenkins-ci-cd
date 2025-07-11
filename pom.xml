@@ -57,5 +57,4 @@
 		</plugins>
 		<finalName>jenkins-ci-cd-devops</finalName>
 	</build>
-
 </project>
